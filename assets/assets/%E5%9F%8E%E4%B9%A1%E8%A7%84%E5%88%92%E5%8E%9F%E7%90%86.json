@@ -1,0 +1,126 @@
+[
+  {
+    "title": "章节练习",
+    "data": [
+      {
+        "id": 72,
+        "qBankId": 10,
+        "title": "第一章：城市与城市发展",
+        "questionCount": 57
+      },
+      {
+        "id": 73,
+        "qBankId": 10,
+        "title": "第二章：城市规划的发展及主要理论与实践",
+        "questionCount": 98
+      },
+      {
+        "id": 74,
+        "qBankId": 10,
+        "title": "第三章：国土空间规划体系",
+        "questionCount": 69
+      },
+      {
+        "id": 75,
+        "qBankId": 10,
+        "title": "第四章：城镇体系规划",
+        "questionCount": 32
+      },
+      {
+        "id": 76,
+        "qBankId": 10,
+        "title": "第五章：国土空间总体规划",
+        "questionCount": 392
+      },
+      {
+        "id": 77,
+        "qBankId": 10,
+        "title": "第六章：城市近期建设规划",
+        "questionCount": 13
+      },
+      {
+        "id": 78,
+        "qBankId": 10,
+        "title": "第七章：城市详细规划",
+        "questionCount": 64
+      },
+      {
+        "id": 79,
+        "qBankId": 10,
+        "title": "第八章：镇、乡和村庄规划",
+        "questionCount": 42
+      },
+      {
+        "id": 80,
+        "qBankId": 10,
+        "title": "第九章：其他主要规划类型",
+        "questionCount": 98
+      },
+      {
+        "id": 81,
+        "qBankId": 10,
+        "title": "第十章：城市规划实施",
+        "questionCount": 27
+      }
+    ]
+  },
+  {
+    "title": "历年真题",
+    "data": [
+      {
+        "id": 82,
+        "qBankId": 10,
+        "title": "2022年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 83,
+        "qBankId": 10,
+        "title": "2021年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 84,
+        "qBankId": 10,
+        "title": "2020年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 85,
+        "qBankId": 10,
+        "title": "2019年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 86,
+        "qBankId": 10,
+        "title": "2018年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 87,
+        "qBankId": 10,
+        "title": "2017年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 88,
+        "qBankId": 10,
+        "title": "2014年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 89,
+        "qBankId": 10,
+        "title": "2013年《城乡规划原理》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 90,
+        "qBankId": 10,
+        "title": "2012年《城乡规划原理》真题",
+        "questionCount": 100
+      }
+    ]
+  }
+]

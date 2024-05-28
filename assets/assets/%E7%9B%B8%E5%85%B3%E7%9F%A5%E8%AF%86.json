@@ -1,0 +1,114 @@
+[
+  {
+    "title": "章节练习",
+    "data": [
+      {
+        "id": 107,
+        "qBankId": 12,
+        "title": "第一章：建筑学",
+        "questionCount": 142
+      },
+      {
+        "id": 109,
+        "qBankId": 12,
+        "title": "第二章：城市道路交通工程",
+        "questionCount": 143
+      },
+      {
+        "id": 110,
+        "qBankId": 12,
+        "title": "第三章：城市市政公用设施",
+        "questionCount": 154
+      },
+      {
+        "id": 111,
+        "qBankId": 12,
+        "title": "第四章：信息技术在城市规划中的应用",
+        "questionCount": 77
+      },
+      {
+        "id": 112,
+        "qBankId": 12,
+        "title": "第五章：城市经济学",
+        "questionCount": 107
+      },
+      {
+        "id": 113,
+        "qBankId": 12,
+        "title": "第六章：城市地理学",
+        "questionCount": 78
+      },
+      {
+        "id": 114,
+        "qBankId": 12,
+        "title": "第七章：城市社会学",
+        "questionCount": 79
+      },
+      {
+        "id": 115,
+        "qBankId": 12,
+        "title": "第八章：城市生态与城市环境",
+        "questionCount": 115
+      }
+    ]
+  },
+  {
+    "title": "历年真题",
+    "data": [
+      {
+        "id": 117,
+        "qBankId": 12,
+        "title": "2022年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 118,
+        "qBankId": 12,
+        "title": "2021年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 119,
+        "qBankId": 12,
+        "title": "2020年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 120,
+        "qBankId": 12,
+        "title": "2019年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 121,
+        "qBankId": 12,
+        "title": "2018年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 122,
+        "qBankId": 12,
+        "title": "2017年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 123,
+        "qBankId": 12,
+        "title": "2014年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 124,
+        "qBankId": 12,
+        "title": "2013年《城乡规划相关知识》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 125,
+        "qBankId": 12,
+        "title": "2012年《城乡规划相关知识》真题",
+        "questionCount": 100
+      }
+    ]
+  }
+]

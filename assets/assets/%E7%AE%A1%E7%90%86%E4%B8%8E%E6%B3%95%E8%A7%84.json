@@ -1,0 +1,90 @@
+[
+  {
+    "title": "章节练习",
+    "data": [
+      {
+        "id": 92,
+        "qBankId": 11,
+        "title": "行政法学基础",
+        "questionCount": 155
+      },
+      {
+        "id": 93,
+        "qBankId": 11,
+        "title": "国土空间法律法规",
+        "questionCount": 244
+      },
+      {
+        "id": 94,
+        "qBankId": 11,
+        "title": "国土空间规划规范",
+        "questionCount": 236
+      },
+      {
+        "id": 95,
+        "qBankId": 11,
+        "title": "国土空间规划政策文件",
+        "questionCount": 265
+      }
+    ]
+  },
+  {
+    "title": "历年真题",
+    "data": [
+      {
+        "id": 97,
+        "qBankId": 11,
+        "title": "2022年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 98,
+        "qBankId": 11,
+        "title": "2021年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 99,
+        "qBankId": 11,
+        "title": "2020年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 100,
+        "qBankId": 11,
+        "title": "2019年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 101,
+        "qBankId": 11,
+        "title": "2018年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 102,
+        "qBankId": 11,
+        "title": "2017年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 103,
+        "qBankId": 11,
+        "title": "2014年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 104,
+        "qBankId": 11,
+        "title": "2013年《管理与法规》真题",
+        "questionCount": 100
+      },
+      {
+        "id": 105,
+        "qBankId": 11,
+        "title": "2012年《管理与法规》真题",
+        "questionCount": 100
+      }
+    ]
+  }
+]
